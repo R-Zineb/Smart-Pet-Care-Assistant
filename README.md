@@ -3,7 +3,7 @@ Smart Pet Care Assistant
 
 Building AI course project
 
-Summary
+#Summary
 
 Smart Pet Care Assistant is an AI tool that helps pet owners monitor their pets’ health and happiness by analyzing behavior, food intake, and activity. It gives simple alerts and tips to keep pets healthier and happier.
 
